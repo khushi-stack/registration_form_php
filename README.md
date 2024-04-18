@@ -2,6 +2,8 @@
 We created a registration form for college where students can fill the form for ontario trip , using html , css and php we created this project. HTML , CSS(frontend) and PHP(backend).
 
 ## STEPS
+In this repository we have some basics for php and then the actual code starts
+
 1)First we downloaded and installed xampp which is a php development environment , u will get database here.
 2)Now go to C drive---->xampss---->htdocs---->"New folder".
 3)Now open vscode and create index.html , index.php , style.css.
