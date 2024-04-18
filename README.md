@@ -17,8 +17,8 @@ $password = "";
 10)Implement exception handling.
 
 ## CHALLENGES and Solution
-1) Faced issue while installing xampp.Error: Mysql shut down unexpectedly. Because default mysql was already running. 
-Solution: Press windows + R and type "services.msc". 
+1)Faced issue while installing xampp.Error: Mysql shut down unexpectedly. Because default mysql was already running. 
+A)Solution: Press windows + R and type "services.msc". 
 Then go to Mysql80 , initially it will be on running mode.
 Click on it and then stop it.
 RESTART the computer and then the issue will be solved.
